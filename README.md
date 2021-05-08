@@ -2,7 +2,7 @@
 
 ## Ejercicio 1
 
-El archivo solucion es  [Ejecutable1](./Taller3_SIMD/exe1.c), para compilar esta solucion se debe de ejecutar el siguiente comando:
+El archivo solución es  [Ejecutable1](./Taller3_SIMD/exe1.c), para compilar esta solución se debe de ejecutar el siguiente comando:
 ```bash
 make build_exe_1
 ```
@@ -13,7 +13,7 @@ make test_exe_1
 
 ## Ejercicio 2
 
-El archivo solucion es  [Ejecutable2](./Taller3_SIMD/exe2.c), para compilar esta solucion se debe de ejecutar el siguiente comando:
+El archivo solución es  [Ejecutable2](./Taller3_SIMD/exe2.c), para compilar esta solución se debe de ejecutar el siguiente comando:
 ```bash
 make build_exe_2
 ```
