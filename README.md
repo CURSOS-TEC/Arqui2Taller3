@@ -1,5 +1,9 @@
 # Taller 3:  Arquitectura de  Computadores II
 
+Dentro de la carpeta ./Taller3_SIMD ejecutar los siguientes comandos.
+
+
+
 ## Ejercicio 1
 
 El archivo solución es  [Ejecutable1](./Taller3_SIMD/exe1.c), para compilar esta solución se debe de ejecutar el siguiente comando:
